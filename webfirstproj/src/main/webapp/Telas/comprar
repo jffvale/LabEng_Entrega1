@@ -37,8 +37,10 @@
         </tbody>
     </table>
 
+    <h1>COMPRA CONFIRMADA</h1>
+
         <br>
-    <form action="comprar.html">
+    <form action="compra.html">
 		<button name="button">CONFIRMAR COMPRA</button>
 	</form>
 
